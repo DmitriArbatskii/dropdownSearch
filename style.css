@@ -6,6 +6,11 @@
     position: relative;
 }
 
+.dropdown__input {
+    box-sizing: border-box;
+    width: 165px;
+}
+
 .dropdown__button {
     width: 20px;
     height: 18px;
